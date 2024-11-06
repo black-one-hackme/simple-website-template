@@ -2,7 +2,7 @@
 session_start();
 
 // Path to your JSON file
-$json_file = '/path/to/private-db/apps.json';
+$json_file = 'apps.json';
 
 if (file_exists($json_file)) {
     $json_data = file_get_contents($json_file);  // Read the content of the file
