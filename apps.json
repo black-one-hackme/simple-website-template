@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Super App",
+        "description": "A great app for all your needs.",
+        "image": "super_app_image.jpg",
+        "download_link": "https://example.com/download/super_app",
+        "payment_required": 1
+    },
+    {
+        "name": "Awesome Game",
+        "description": "An amazing game that you'll love.",
+        "image": "awesome_game_image.jpg",
+        "download_link": "https://example.com/download/awesome_game",
+        "payment_required": 0
+    },
+    {
+        "name": "Photo Editor Pro",
+        "description": "Edit your photos like a pro with advanced features.",
+        "image": "photo_editor_image.jpg",
+        "download_link": "https://example.com/download/photo_editor_pro",
+        "payment_required": 1
+    },
+    {
+        "name": "Music Player Plus",
+        "description": "Listen to your favorite music with enhanced features.",
+        "image": "music_player_image.jpg",
+        "download_link": "https://example.com/download/music_player_plus",
+        "payment_required": 0
+    },
+    {
+        "name": "Fitness Tracker App",
+        "description": "Track your fitness goals with ease.",
+        "image": "fitness_tracker_image.jpg",
+        "download_link": "https://example.com/download/fitness_tracker",
+        "payment_required": 0
+    }
+]
