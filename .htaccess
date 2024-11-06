@@ -1,0 +1,5 @@
+# Prevent access to the JSON file
+<Files "apps.json">
+    Order allow,deny
+    Deny from all
+</Files>
